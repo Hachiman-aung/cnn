@@ -11,8 +11,8 @@ A Convolutional Neural Network (CNN) implementation for fruit recognition using 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/fruits360-cnn.git
-cd fruits360-cnn
+git clone https://github.com/Hachiman-aung/cnn
+cd cnn
 
 # Create virtual environment
 python -m venv venv
